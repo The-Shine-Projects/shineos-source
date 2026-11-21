@@ -1,0 +1,17 @@
+[org/gnome/desktop/interface]
+color-scheme='prefer-dark'
+gtk-theme='MacTahoe-Dark'
+icon-theme='Starcons'
+font-name='Instrument Sans Bold 11'
+document-font-name='Instrument Sans Bold 11'
+monospace-font-name='JetBrains Mono 10'
+
+[org/gnome/desktop/background]
+picture-uri='file:///usr/share/backgrounds/shineos/shineos-default.jpg'
+picture-uri-dark='file:///usr/share/backgrounds/shineos/shineos-default.jpg'
+
+[org/gnome/shell]
+enabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'search-light@icedman.github.com', 'quick-settings-avatar@d-go', 'auto-accent-colour@Wartybix', 'tiling-assistant@leleat-on-github', 'category-sorted-app-grid@noobping.dev', 'arcmenu@arcmenu.com', 'wack-lockscreen-clock@rinzler69-wastaken.github.com', 'Picture-desktop-widget@GaszokS.github.com', 'kiwi@kemma', 'blur-my-shell@aunetx', 'dash-to-panel@jderose9.github.com', 'quick-settings-scroll@diskmth.fr', 'just-perfection-desktop@just-perfection', 'compiz-alike-magic-lamp-effect@hermes83.github.com', 'quick-settings-tweaks@qwreey']
+
+[org/gnome/shell/extensions/user-theme]
+name='Adwaita'

@@ -1,0 +1,47 @@
+Credits
+
+The Shine Project
+- Alex (Starlight): design, coding, creator of Shine
+- Sushinoroll: community staff, founder of Quific
+- Cliff Emanuel: designer for the original TikTok slideshow showcase
+- AETHER: designer for Shine and AZUsystem
+- elfo: made the ShineOS ad
+
+Build
+- MTSyntho: ISO builds and live-build setup
+
+GNOME Shell extensions (each under its own license, see its LICENSE file)
+- GSConnect (gsconnect@andyholmes.github.io): https://github.com/GSConnect/gnome-shell-extension-gsconnect/wiki
+- Weather or Not (weatherornot@somepaulo.github.io): https://gitlab.gnome.org/somepaulo/weather-or-not
+- Picture desktop widget (Picture-desktop-widget@GaszokS.github.com): https://github.com/GaszokS/Picture-desktop-widget
+- ArcMenu (arcmenu@arcmenu.com): https://gitlab.com/arcmenu/ArcMenu
+- Auto Accent Colour (auto-accent-colour@Wartybix): https://codeberg.org/Wartybix/GNOME-Auto-Accent-Colour/
+- Blur my Shell (blur-my-shell@aunetx): https://github.com/aunetx/blur-my-shell
+- Category sorted App Grid (category-sorted-app-grid@noobping.dev): https://github.com/noobping/category-sorted-app-grid
+- Compiz alike magic lamp effect (compiz-alike-magic-lamp-effect@hermes83.github.com): https://github.com/hermes83/compiz-alike-magic-lamp-effect
+- Dash to Panel (dash-to-panel@jderose9.github.com): https://github.com/home-sweet-gnome/dash-to-panel
+- Just Perfection (just-perfection-desktop@just-perfection): https://gitlab.gnome.org/jrahmatzadeh/just-perfection
+- Kiwi (is not Apple) (kiwi@kemma): https://github.com/kem-a/kiwi-kemma
+- User Avatar In Quick Settings (quick-settings-avatar@d-go): https://github.com/d-go/quick-settings-avatar
+- Quick Settings Scroll (quick-settings-scroll@diskmth.fr): https://github.com/Disk-MTH/Quick-Settings-Scroll
+- Quick Settings Tweaks (quick-settings-tweaks@qwreey): https://github.com/qwreey/quick-settings-tweaks
+- Search Light (search-light@icedman.github.com): https://github.com/icedman/search-light
+- Tiling Assistant (tiling-assistant@leleat-on-github): https://github.com/ubuntu/Tiling-Assistant
+- WACK - Sonoma Lockscreen (wack-lockscreen-clock@rinzler69-wastaken.github.com): https://github.com/rinzler69-wastaken/wack-sonoma-lockscreen
+
+Preinstalled software (each under its own license)
+- KDE Connect: by the KDE community (https://kdeconnect.kde.org)
+- Waydroid: by the Waydroid project (https://waydro.id)
+- Extension Manager: by Matthew Jakeman (https://github.com/mjakeman/extension-manager)
+- GNOME desktop, GNOME Shell and its bundled extensions (including User Themes): by the GNOME Project (https://www.gnome.org)
+- Debian: the base system, by the Debian Project (https://www.debian.org)
+- MacTahoe-Dark GTK theme: by vinceliuice (https://github.com/vinceliuice/MacTahoe-gtk-theme)
+- WhiteSur GTK theme, which MacTahoe is based on: by vinceliuice (https://github.com/vinceliuice/WhiteSur-gtk-theme)
+
+Origins
+- Origin UI 26 Sedona Beta 2, by The Ester Project (https://theesterproject.com): the operating system ShineOS was originally based on, before becoming an independent Debian-based distribution.
+- Canonical and the Ubuntu project (https://ubuntu.com): early versions of ShineOS used Ubuntu code before ShineOS moved to Debian.
+
+Original work
+- Starcons icon theme: by Alex (Starlight), The Shine Project
+- Shine logo and boot artwork: designed by Alex (Starlight), The Shine Project
