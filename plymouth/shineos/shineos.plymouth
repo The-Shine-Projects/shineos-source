@@ -1,6 +1,6 @@
 [Plymouth Theme]
 Name=ShineOS
-Description=The Shine Project boot splash
+Description=A splash logo for ShineOS
 ModuleName=script
 
 [script]
